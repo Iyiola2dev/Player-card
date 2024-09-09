@@ -1,6 +1,6 @@
 
 import './App.css'
-import PlayerList from './components/playerList'
+import PlayerList from './components/PlayerList'
 
 function App() {
   
